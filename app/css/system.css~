@@ -1,0 +1,59 @@
+body{
+ background-image: url(../images/bg.jpeg);
+
+}
+
+h1 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	
+}
+
+.main_div{
+	padding: 20px;
+	margin-left: 300px;
+	margin-right: 300px;
+	display:center;
+}
+
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active{
+	background:#00aedb;
+
+}
+
+
+
+.Comment{
+cursor: pointer;
+}
+
+#getToKnow{
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 20px;
+	padding: 10px;
+	background-color: white;
+}
+
+#sample{
+	border-radius: 100%;
+	height: 100px;
+	width: 100px;
+	float: left;
+	background-color: #00aedb;
+}
+
+#logIn{
+	background-image: url(../images/bamboo.jpeg);
+	width:1700px;
+}
+
+
+
+
